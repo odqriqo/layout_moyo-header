@@ -51,10 +51,6 @@ body {
   text-transform: uppercase;
 }
 
-.nav__link.hover {
-  color: var(--blue-color);
-}
-
 .nav__link:hover {
   color: var(--blue-color);
 }
